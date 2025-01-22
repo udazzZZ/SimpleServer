@@ -9,7 +9,7 @@ form {
     text-align: center;
 }
 
-input[type="text"], input[type="password"] {
+input[type=text], input[type=password] {
     text-align: center;
     -webkit-border-radius: 4px;
     width: auto;
@@ -41,5 +41,5 @@ button:hover {
 }
 
 .container {
-    padding: 20px;
+    padding: 40px;
 }
